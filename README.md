@@ -10,7 +10,6 @@ d
 d
 s
 s
-f
 s
 sd
 s

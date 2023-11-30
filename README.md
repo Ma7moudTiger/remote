@@ -13,7 +13,6 @@ s
 f
 s
 sd
-d
 s
 sd
 s

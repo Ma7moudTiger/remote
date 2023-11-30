@@ -19,5 +19,4 @@ sd
 s
 d
 d
-d
 f

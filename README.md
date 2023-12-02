@@ -10,6 +10,5 @@ d
 d
 s
 s
-s
 sd
 sd

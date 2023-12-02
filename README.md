@@ -13,4 +13,3 @@ s
 s
 sd
 sd
-d

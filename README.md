@@ -12,6 +12,5 @@ s
 s
 s
 sd
-s
 sd
 d

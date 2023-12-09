@@ -1,3 +1,2 @@
 # remote
 remote example
-d

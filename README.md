@@ -3,4 +3,3 @@ remote example
 d
 dd
 ddd
-d

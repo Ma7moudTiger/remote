@@ -12,7 +12,6 @@ s
 s
 a
 a
-a
 s
 s
 s
